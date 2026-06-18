@@ -17,7 +17,7 @@ public class Components {
     public static final Component GAME_STARTED = miniMessage("<color:green><b>Start!</b></color>");
 
     public static final Component SCOREBOARD_TITLE = miniMessage("<gradient:white:yellow:gold:yellow:white><b>GLADIATORS</b></gradient>");
-    public static final Component SCOREBOARD_WEBSITE = miniMessage("<color:gold>mineparty.com</color>");
+    public static final Component SCOREBOARD_WEBSITE = miniMessage("<color:gold>mineplex.com</color>");
 
     public static Component miniMessage(String input) {
         return MINI_MESSAGE.deserialize(input);
