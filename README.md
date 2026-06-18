@@ -1,1 +1,1 @@
-# mcpvp-hg-remake
+# mineplex-gladiators-remake
