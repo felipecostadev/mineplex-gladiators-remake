@@ -1,0 +1,5 @@
+main: com.mineplex.Gladiators
+name: Gladiators
+version: 1.21.11-SNAPSHOT
+api-version: 1.21
+load: STARTUP
